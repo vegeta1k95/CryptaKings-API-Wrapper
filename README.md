@@ -1,6 +1,9 @@
 # CryptaKings-API-Wrapper
 Python library for wrapping Cryptkings API Service
 
+## Installation:
+Using pip: `pip install cryptakings-api`
+
 ## Implemented methods:
 1. OAuth Service:
    - `auth_get_token` - request for access token using credentials
